@@ -1,4 +1,4 @@
-# workshop-nordic-semiconductor
+# workshop: Nordic Semiconductor
 
 ## Installering av software
 
