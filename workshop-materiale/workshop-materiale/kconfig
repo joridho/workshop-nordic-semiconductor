@@ -1,0 +1,10 @@
+source "Kconfig.zephyr"
+
+config BLINK
+	bool "Enable my function"
+	default n
+
+config MAIN
+	bool "Enable my function"
+	default y
+
