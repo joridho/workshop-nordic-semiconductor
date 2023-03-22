@@ -35,6 +35,14 @@
  
  ## 3. GPS 
  
+ 1. Under "WELCOME" velg "Create a new application" og velg "asset_tracker_v2" og "Create Application".
  
+ 2. Build, link opp enheten og flash på samme måte som i oppgave 2
+ 
+ 3. Gå til [nRF Cloud](https://nrfcloud.com/) og lag en bruker
+ 
+ 4. Trykk på plusset, registrer LTE Device
+ 
+ 5. Nå skal du kunne se data fra GPS og sensorer 
  
  
