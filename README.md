@@ -2,9 +2,9 @@
 
 ## 1. Installering av software
 
-1. Innstaller [VS Code](https://code.visualstudio.com/download)
+1. Installer [VS Code](https://code.visualstudio.com/download)
 
-2. Innstaller [nRF Connect for Desktop](https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-desktop/download)
+2. Installer [nRF Connect for Desktop](https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-desktop/download)
   
  3. I nRF Connect for Desktop, Innstaller:
  - LTE Link Monitor
