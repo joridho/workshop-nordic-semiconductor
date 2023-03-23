@@ -29,9 +29,9 @@
  
  5. Nå skal lyset blinke. 
  
- 6. Gå inn på [prj.conf](https://github.com/joridho/workshop-nordic-semiconductor/blob/main/workshop-materiale/prj.conf) og endre CONFIG_BLINK=n og CONFIG_MAIN=n. Flash på nytt. 
+ 6. Gå inn på [prj.conf](https://github.com/joridho/workshop-nordic-semiconductor/blob/main/workshop-materiale/prj.conf) og endre CONFIG_BLINK=n og CONFIG_MAIN=y. Flash på nytt. 
  
- 7. Nå skal lyset på av og på når du trykker på knappen. 
+ 7. Nå skal lyset gå av og på når du trykker på knappen. 
  
  ## 3. GPS 
  
@@ -41,7 +41,7 @@
  
  3. Gå til [nRF Cloud](https://nrfcloud.com/) og lag en bruker
  
- 4. Trykk på plusset, registrer LTE Device
+ 4. Trykk på plusset, registrer LTE Device, og hopp over å registrere sim-kort 
  
  5. Nå skal du kunne se data fra GPS og sensorer 
  
