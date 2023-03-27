@@ -1,4 +1,5 @@
 # workshop: Nordic Semiconductor
+Denne workshoppen går ut på å lære om Nordic Semiconductor, sette opp pc'en til å bruke det, og gjøre noen enkle oppgaver. Det er i hovedsaken informativ workshop. 
 
 ## 1. Installering av software
 
@@ -12,7 +13,7 @@
  
  4. Åpne Toolchain Manager og installer nRF Connect SDK v2.3.0
  
- 5. Trykk på "Open in VS Code" og installer "missing packages"
+ 5. Trykk på `Open in VS Code` og installer `missing packages`. 
  
  6. Installer [Command Line Tools](https://www.nordicsemi.com/Products/Development-tools/nRF-Command-Line-Tools/Download#infotabs)
  
@@ -21,11 +22,11 @@
  
  1. Last ned koden til dette prosjektet, ved å trykke på `Code` knappen, og trykk på `Download Zip`.
  
- 2. I VS Code, gå til nRF Connect som er vist i activity bar på venstre side, og under "WELCOME" trykke på "Open an existing application" og velg mappen du nettopp lastet ned. 
+ 2. I VS Code, gå til nRF Connect som er vist i activity bar på venstre side, og under `WELCOME` trykke på `Open an existing application` og velg mappen du nettopp lastet ned. 
  
- 3. Under "Apllication" vil prosjektet dukke opp og det vil stå "No build configurations". Trykke på den og velg "Board" velger du "thingy91_nrf9160_ns" og trykker på "Build Configuration". 
+ 3. Under `Application` vil prosjektet dukke opp og det vil stå `No build configurations`. Trykke på den og velg `Boar` velger du `thingy91_nrf9160_ns` og trykker på `Build Configuration`. 
  
- 4. Når build er ferdig, må du velge "Link Build Configuration And Device", deretter "Flash" under "ACTIONS". 
+ 4. Når build er ferdig, må du velge `Link Build Configuration And Device`, deretter `Flash` under `ACTIONS`. 
  
  5. Nå skal lyset blinke. 
  
@@ -35,7 +36,7 @@
  
  ## 3. GPS 
  
- 1. Under "WELCOME" velg "Create a new application" og velg "asset_tracker_v2" og "Create Application".
+ 1. Under `WELCOME` velg `Create a new application` og velg `asset_tracker_v2` og `Create Application`.
  
  2. Build, link opp enheten og flash på samme måte som i oppgave 2
  
