@@ -12,7 +12,7 @@
  
  4. Åpne Toolchain Manager og installer nRF Connect SDK v2.3.0
  
- 5. Trykk på "Open in VS Code" og innstaller "missing packages"
+ 5. Trykk på "Open in VS Code" og installer "missing packages"
  
  6. Installer [Command Line Tools](https://www.nordicsemi.com/Products/Development-tools/nRF-Command-Line-Tools/Download#infotabs)
  
