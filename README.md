@@ -24,7 +24,7 @@ Denne workshoppen går ut på å lære om Nordic Semiconductor, sette opp pc'en 
  
  2. I VS Code, gå til nRF Connect som er vist i activity bar på venstre side, og under `WELCOME` trykke på `Open an existing application` og velg mappen du nettopp lastet ned. 
  
- 3. Under `Application` vil prosjektet dukke opp og det vil stå `No build configurations`. Trykke på den og velg `Boar` velger du `thingy91_nrf9160_ns` og trykker på `Build Configuration`. 
+ 3. Under `Application` vil prosjektet dukke opp og det vil stå `No build configurations`. Trykke på den og velg `Board` velger du `thingy91_nrf9160_ns` eller `nrf9160dk_nrf9160_nsog trykker på `Build Configuration`. 
  
  4. Når build er ferdig, må du velge `Link Build Configuration And Device`, deretter `Flash` under `ACTIONS`. 
  
