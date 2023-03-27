@@ -19,7 +19,7 @@
  
  ## 2. Last ned første "application"
  
- 1. Last ned koden i dette prosjektet. 
+ 1. Last ned koden til dette prosjektet, ved å trykke på `Code` knappen, og trykk på `Download Zip`.
  
  2. I VS Code, gå til nRF Connect som er vist i activity bar på venstre side, og under "WELCOME" trykke på "Open an existing application" og velg mappen du nettopp lastet ned. 
  
